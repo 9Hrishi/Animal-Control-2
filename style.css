@@ -1,0 +1,38 @@
+body
+{
+    background-color: rgb(255, 0, 0);
+    color: white;
+}
+.header_div
+{
+ background-color: rgba(255, 0, 0, 0.708);
+ color: black;
+}
+.header_div p
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: yellow;
+    letter-spacing: 3px;
+    font-size: 12px;
+    font-weight: bold;
+}
+button
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+.copy_right_footer
+{
+    position: fixed;
+    color: gray;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px gray;
+} 
